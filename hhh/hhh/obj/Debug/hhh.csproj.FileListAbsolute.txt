@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\bin\Debug\hhh.exe.config
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\bin\Debug\hhh.exe
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\bin\Debug\hhh.pdb
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.Properties.Resources.resources
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.exe
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.pdb
