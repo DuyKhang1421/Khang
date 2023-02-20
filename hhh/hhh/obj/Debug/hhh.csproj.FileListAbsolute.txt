@@ -8,3 +8,4 @@ C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.csproj.GenerateResource
 C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.exe
 C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.pdb
+C:\Users\PC\source\repos\19THN1_03\hhh\hhh\obj\Debug\hhh.Form1.resources
